@@ -1,0 +1,358 @@
+[
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "Dinel of services"
+            },
+            "Start": 51,
+            "End": 68,
+			"ThreatClassification": "DOS"
+        }
+    ],
+	[
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "Spoofing "
+            },
+            "Start": 51,
+            "End": 68,
+			"ThreatClassification": "SPF"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "-Brute Force"
+            },
+            "Start": 221,
+            "End": 232,
+			"ThreatClassification": "SBF"
+			
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "Natural Cause -"
+            },
+            "Start": 497,
+            "End": 514,
+			"ThreatClassification": " NC"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "computers"
+            },
+            "Start": 551,
+            "End": 559,
+			"ThreatClassification": "bos"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "Tampering"
+            },
+            "Start": 566,
+            "End": 583,
+			"ThreatClassification": "TMP"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "PER",
+                "Word": "individuals"
+            },
+            "Start": 939,
+            "End": 949
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "Beazley's global"
+            },
+            "Start": 965,
+            "End": 980
+			
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "TMS",
+                "Word": "cyber"
+            },
+            "Start": 990,
+            "End": 994
+        }
+        
+    ],
+    [
+        {
+            "Data": {
+                "Label": "CONS",
+                "Word": "ransomware attackers were demanding more money"
+            },
+            "Start": 1022,
+            "End": 1067
+        
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "CONS",
+                "Word": "creative in ways"
+            },
+            "Start": 1111,
+            "End": 1126
+			
+        
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "coronavirus"
+            },
+            "Start": 1176,
+            "End": 1186
+			
+        
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "CONS",
+                "Word": "find out -"
+            },
+            "Start": 1365,
+            "End": 1374
+			
+        
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "what's"
+            },
+            "Start": 1418,
+            "End": 1423
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "PER",
+                "Word": "ransomware"
+            },
+            "Start": 1607,
+            "End": 1616
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "Hijacking- "
+            },
+            "Start": 1624,
+            "End": 1645,
+			"ThreatClassification": "HJK"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "PER",
+                "Word": "attackers"
+            },
+            "Start": 1670,
+            "End": 1678
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "phishing -"
+            },
+            "Start": 1885,
+            "End": 1905,
+			"ThreatClassification": "PHG"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "PER",
+                "Word": "Story"
+            },
+            "Start": 2009,
+            "End": 2013
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "coronavirus-"
+            },
+            "Start": 2106,
+            "End": 2117
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "PER",
+                "Word": "Reuters"
+            },
+            "Start": 2189,
+            "End": 2195
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "cut their cyber insurance completely"
+            },
+            "Start": 2230,
+            "End": 2265,
+			"ThreatClassification": "bos"
+			
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "squeeze"
+            },
+            "Start": 2286,
+            "End": 2292
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "TMS",
+                "Word": "coronavirus crisis"
+            },
+            "Start": 2315,
+            "End": 2332
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "CYBER ATTACK ",
+                "Word": "cyber insurance businesses are"
+            },
+            "Start": 2372,
+            "End": 2401,
+			"ThreatClassification": "CYB"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "physical cause - "
+            },
+            "Start": 2470,
+            "End": 2487,
+			"ThreatClassification": "SBF"
+        }
+    ],
+	[
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "Information disclosure - "
+            },
+            "Start": 2470,
+            "End": 2487,
+			"ThreatClassification": "IFD"
+        }
+    ],
+	[
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "Relay Attack"
+            },
+            "Start": 2470,
+            "End": 2487,
+			"ThreatClassification": "RA"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "player"
+            },
+            "Start": 2624,
+            "End": 2629
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "CFC Underwriting"
+            },
+            "Start": 2632,
+            "End": 2647
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATK",
+                "Word": "deploy this capacity"
+            },
+            "Start": 3071,
+            "End": 3090,
+			"ThreatClassification": "CYB"
+        }
+    ],
+    [
+        {
+            "Data": {
+                "Label": "ATS",
+                "Word": "CFC's"
+            },
+            "Start": 3094,
+            "End": 3098
+        }
+    ],
+    [
+        {
+            "Data": { 
+                "Label": "ATS",
+                "Word": "Saumyadeb Chakrabarty"
+            },
+            "Start": 3275,
+            "End": 3295
+        }
+    ]
+]
+ 

@@ -1,0 +1,41 @@
+{
+	"Area": "Highway",
+	"Location": "intersection",
+	"Weather": "Rainy",
+    "Time": "Day",
+    "Actors": [
+    	"Red car",
+    	"yellow car",
+    	"truck",
+    	"bypasser"
+    ],
+    "Actor_location": [
+    	"red car is in front of intersection",
+    	"yellow car is behind lead car",
+    	"opposite lane",
+    	"crossing the road"
+    ],
+    "Threat_type": "Tampering",
+    "Target": "car sensors",
+    "TActors": [
+    	"red car",
+    	"yellow car",
+    	"hacker",
+    	"bypasser"
+    ],
+    "TActor_location": [
+    	"car jumped the intersection",
+    	"car is behind lead car",
+    	"opposite lane",
+    	"under car"
+    ],
+	"Data": 
+			{
+			"Label": "ATK", 
+			"Word": "cyber crimes"
+			},
+	"Start": 221, 
+	"End": 232
+			
+	
+}
